@@ -1,4 +1,6 @@
 # AESCrypt-ObjC - Simple AES encryption / decryption for iOS and OS X
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FAESCrypt-ObjC.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FAESCrypt-ObjC?ref=badge_shield)
+
 
 AESCrypt is a simple to use, opinionated AES encryption / decryption Objective-C class that just works.
 
@@ -55,3 +57,6 @@ NSData+CommonCrypto is Copyright (c) 2008-2009, Jim Dovey
 AESCrypt is Copyright (c) 2012 Gurpartap Singh
 
 See LICENSE for license terms.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FAESCrypt-ObjC.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FAESCrypt-ObjC?ref=badge_large)
